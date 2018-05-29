@@ -8,3 +8,5 @@ https://blog.csdn.net/neosmith/article/details/52539927
 JWT_Oauth2
 http://www.devglan.com/spring-security/spring-boot-security-oauth2-example
 
+JWT+Oauth2
+http://www.baeldung.com/spring-security-oauth-jwt

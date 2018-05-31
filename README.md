@@ -14,3 +14,8 @@ http://www.baeldung.com/spring-security-oauth-jwt
 SpringBoot+SpringData+React:
 https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication
 
+Nodejs+React.js+MongoDB:
+http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
+
+
+
